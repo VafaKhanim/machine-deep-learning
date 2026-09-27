@@ -1,5 +1,4 @@
 ### Email Spam Detection Dataset (classification).
-Retrieved from [Kaggle](https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification)
 
 ---
 Description:
